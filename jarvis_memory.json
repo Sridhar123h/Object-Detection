@@ -1,0 +1,47 @@
+{
+    "user_preferences": {},
+    "interaction_history": [
+        {
+            "command": "show suggesition",
+            "timestamp": "2025-05-03T00:24:15.785461"
+        },
+        {
+            "command": "yes",
+            "timestamp": "2025-05-03T00:25:21.824200"
+        },
+        {
+            "command": "who are you",
+            "timestamp": "2025-05-03T00:25:29.880714"
+        },
+        {
+            "command": "you are jarvis",
+            "timestamp": "2025-05-03T00:25:37.356470"
+        },
+        {
+            "command": "who are you",
+            "timestamp": "2025-05-03T00:25:42.850113"
+        }
+    ],
+    "routines": [
+        {
+            "time": "00:24",
+            "command": "show suggesition"
+        },
+        {
+            "time": "00:25",
+            "command": "yes"
+        },
+        {
+            "time": "00:25",
+            "command": "who are you"
+        },
+        {
+            "time": "00:25",
+            "command": "you are jarvis"
+        },
+        {
+            "time": "00:25",
+            "command": "who are you"
+        }
+    ]
+}
